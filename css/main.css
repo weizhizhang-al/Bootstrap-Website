@@ -1,56 +1,20 @@
-/*
-.jumbotron {
-  height: 40vh;
-}
-*/
-
-/*
-.header{
-      height: 80vh;
-
-}
-*/
-
-
-.rounded-circle{
-/*
-    height: 20vh;
-    width: 20vh;
-    margin-top: 10vh;
-    margin-left: auto;
-*/
 
 
 
-}
-
-.title{
 
 
-/*
-    margin-top: 5vh;
-    margin-left: auto;
-*/
-
-}
-
-/*
-.col-4{
-      height: 20vh;
-    width: 20vh;
-    margin-top: 10vh;
 
 
-}
-*/
+
+
+
+
+
 
 .container{
     margin-left: 10vw;
     margin-right: 10vw;
-/*
-    margin-top: 5vh;
-    margin-bottom: 5vh;
-*/
+
 
 }
 
@@ -60,9 +24,4 @@
        margin-left: 0;
        margin-right: 0;
    }
-}
-
-
-img{
-
 }
