@@ -42,3 +42,10 @@
 .navbar-dark{
     background-color:#643a41 !important;
 }
+
+
+.container {
+  padding-right: 10px;
+  padding-left: 10px;
+  
+}
